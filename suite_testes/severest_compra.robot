@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Esse teste verifica o site da Severest
+Documentation    Esse teste verifica o site da Severest   
 
 Resource    ../testes.cases/severest_resouce.robot
 Resource    ../Resource.robot/login.robot
